@@ -1,0 +1,7 @@
+{
+  "name": "admin-software",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
