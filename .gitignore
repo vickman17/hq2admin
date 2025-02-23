@@ -35,3 +35,16 @@ yarn-error.log*
 .env.local
 .env.production
 
+# Ignore system and user directories
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+.vscode/
+.idea/
+.cache/
+.gradle/
+AppData/
+Downloads/
+Music/
+Documents/
